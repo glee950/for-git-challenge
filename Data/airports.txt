@@ -1,12 +1,12 @@
 See http://openflights.org/data.html
 
 As of January 2012, the OpenFlights Airports Database contains 6977 airports spanning the globe, as shown in the map above. Each entry contains the following information:
-Airport ID 	Unique OpenFlights identifier for this airport.
-Name 	Name of airport. May or may not contain the City name.
+Name 	Name of airport. May or may not contain the City NAME.
 City 	Main city served by airport. May be spelled differently from Name.
 Country 	Country or territory where airport is located.
 IATA/FAA 	3-letter FAA code, for airports located in Country "United States of America".
 3-letter IATA code, for all other airports.
+ADD LINEEEEE
 Blank if not assigned.
 ICAO 	4-letter ICAO code.
 Blank if not assigned.
